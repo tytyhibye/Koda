@@ -1,20 +1,18 @@
 body { 
 	font: 75% georgia, sans-serif;
 	color: #2f312e; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat center;
+	background: #fff url(http://csszengarden.com/001/blossoms.jpg);
   text-align: center;
 	}
-p { 
-  font: georgia; 
-	text-align: center;
-	}
-h2 { 
+h1 { 
 	font: italic normal 2em georgia, sans-serif;
 	letter-spacing: 1px;  
 	color: #7D775C;
   }
-h1 {
-  font: 150% georgia;
+h2 {
+	font: italic normal 2em georgia, sans-serif;
+	letter-spacing: 1px;  
+	color: #7D775C;;
 }
 ul {
   font: 150% georgia;
