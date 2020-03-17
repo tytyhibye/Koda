@@ -1,7 +1,7 @@
 body { 
 	font: 75% georgia, sans-serif;
 	color: #2f312e; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg);
+	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat center;
   text-align: center;
 	}
 p { 
